@@ -25,6 +25,8 @@
     "scraper": "0.0.9",
     "soupselect": "0.2.0",
     "htmlparser": "1.7.6",
+    "request": "2.14.0",
+    "cheerio": "0.10.7",
     "hubot-irc": "~0.1.19"
   },
   "engines": {
