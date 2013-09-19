@@ -27,6 +27,7 @@
     "htmlparser": "1.7.6",
     "request": "2.14.0",
     "cheerio": "0.10.7",
+    "sandbox": "0.8.3",
     "hubot-irc": "~0.1.19"
   },
   "engines": {
